@@ -23,4 +23,8 @@
 
     <!-- Touch sensitivity -->
     <bool name="config_show_touch_sensitivity">true</bool>
+
+    <!-- Show battery cycle count -->
+    <bool name="config_show_battery_cycle_count" translatable="false">true</bool>
+
 </resources>
